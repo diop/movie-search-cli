@@ -18,5 +18,8 @@
   "homepage": "https://github.com/diop/movie-search-cli#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.2"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
   }
 }
